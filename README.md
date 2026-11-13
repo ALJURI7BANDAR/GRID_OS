@@ -19,7 +19,14 @@ It aims to demonstrate how AI-driven insights can support smarter energy plannin
 
 ## 📊 Dashboard
 
-The project includes a dashboard concept designed to present energy-related data and provide insights into electricity consumption and demand.
+### 1. Overview Dashboard
+![Overview Dashboard](overview-dashboard.PNG.jpg)
+
+### 2. Grid Topology
+![Grid Topology](grid-topology.jpg.jpg)
+
+### 3. Events & Alerts
+![Events & Alerts](events-alerts.PNG.jpg)
 
 ## 🎥 Project Demonstration
 
