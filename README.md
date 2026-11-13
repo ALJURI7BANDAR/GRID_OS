@@ -46,4 +46,9 @@ Computer Engineering Student
 
 ---
 
-*Exploring the intersection of Artificial Intelligence, Computer Engineering, and Energy Innovati
+*Exploring the intersection of Artificial Intelligence, Computer Engineering, and Energy Innovation 
+---
+
+## 🏆 Kanz AI Hackathon Certificate
+
+[📄 View My Hackathon Certificate](%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D9%87%D8%A7%D9%83%D8%AB%D9%88%D9%86%20%D9%83%D9%86%D8%B2.pdf)
