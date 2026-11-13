@@ -23,9 +23,9 @@ The project includes a dashboard concept designed to present energy-related data
 
 ## 🎥 Project Demonstration
 
-A video demonstrating the dashboard and project concept will be available here.
+Watch the project demonstration video below.
 
-Watch GRID_OS Demo
+[▶️ Watch GRID_OS Project Demo](https://drive.google.com/file/d/119dkvgQB-oj1tUtqNn2BT3XNtwwf-Vw5/view?usp=drivesdk)
 
 ## 🏆 Achievement
 
